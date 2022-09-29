@@ -1,1 +1,1 @@
-# These are some codes used repitatively in Data Preprocessing and Machine Learning. 
+# These are some codes used repetitively in Data Preprocessing and Machine Learning. 
